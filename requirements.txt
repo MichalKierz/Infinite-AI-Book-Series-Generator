@@ -1,0 +1,6 @@
+customtkinter
+openai
+google-genai
+anthropic
+fpdf2
+keyringd

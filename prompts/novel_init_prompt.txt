@@ -1,0 +1,22 @@
+You will be writing a mini-novel. You will start by creating a detailed plot outline, which will guide the writing process section by section. The outline must be numbered, containing a maximum of [number] main points, along with appropriate sub-points for greater detail. Keep in mind that these points represent plot milestones for a short novel/novella, not individual chapters. The outline should incorporate not only key plot twists but also crucial stages of the main character's development.
+
+Your task is to create a story that meets the guidelines provided below. At the same time, ensure the novel is unpredictable—events should be surprising, unconventional, and difficult to foresee based solely on my instructions. Even with these guidelines in place, I want to be surprised by how the plot unfolds and progresses. However, remember that surprising plot twists must stem from earlier foreshadowing or character actions, rather than pure coincidence (avoid deus ex machina).
+
+Pay special attention to the following:
+
+    Main Character Development: Define a clear internal and external conflict for the protagonist. Their character arc (if a transformation is intended) should be gradual, believable, and driven by their experiences and decisions. Show their motivations, fears, and dilemmas.
+
+    Supporting Characters: Give secondary characters distinct personalities and at least simple, individual goals or motivations that may (or may not) intersect with the main plot. Avoid treating characters merely as exposition tools. Their reactions to events should be consistent with their established traits.
+
+    World-Building and Thematic Depth: If you introduce complex scientific, philosophical, or social concepts, develop them enough so the reader can understand and appreciate their significance to the plot, rather than just name-dropping them.
+
+    Pacing and Structure: Ensure a well-balanced narrative pace. Intertwine action scenes with moments for reflection, character development, or atmospheric world-building. Subplots, if introduced, should add value to the main story or the characters' arcs.
+
+    Believability and Consistency: Even the most fantastical events must maintain internal logic and consistency within the established world. Characters' actions should be a natural consequence of their personalities and the situations they face.
+
+    Show, Don't Tell: Instead of directly describing characters' emotions or explicitly stating their motivations, strive to convey them through their actions, dialogue, and body language.
+
+Here are my guidelines:
+[guidelines]
+
+Write a detailed plot outline, taking all the above notes into consideration. Afterwards, I will ask you to write the story point by point.

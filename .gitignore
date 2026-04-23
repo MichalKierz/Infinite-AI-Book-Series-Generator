@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# PyInstaller cache / artifacts
+*.manifest
+*.pyz
+*.pkg
+
+# Local app data
+Workspace/
+app_config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Test / tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs / temp files
+*.log
+*.tmp
+*.temp
+
+# Release artifacts
+*.zip
+*.exe
+
+# Optional: uncomment if you do NOT want to keep the PyInstaller spec file in git
+*.spec
