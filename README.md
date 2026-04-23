@@ -1,7 +1,5 @@
 # Infinite AI Book Series Generator
 
-![Image](showcase.png)
-
 A desktop app for generating long-running AI-powered book series with a simple GUI.
 
 It lets you configure an AI provider, start a new series, continue an existing one, edit prompt files, and automatically save generated books, summaries, and intermediate JSON data to a workspace folder.
