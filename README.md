@@ -1,4 +1,5 @@
 # Infinite AI Book Series Generator
+![Image](showcase.png)
 
 A desktop app for generating long-running AI-powered book series with a simple GUI.
 
